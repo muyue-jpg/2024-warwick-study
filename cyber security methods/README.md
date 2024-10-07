@@ -1,3 +1,4 @@
+10/7:QUIZ
 
 1. What is the goal of applied science in cybersecurity?
 a. To discover how to meet a specific need.
