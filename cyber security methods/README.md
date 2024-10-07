@@ -1,10 +1,10 @@
-10/7:QUIZ
+# 10/7:QUIZ
 
-1. What is the goal of applied science in cybersecurity?
+## 1. What is the goal of applied science in cybersecurity?
 a. To discover how to meet a specific need.
 
 
-2. The steps of the scientific method are systematic, meaning jumping around the steps in an unplanned way would violate the method.
+## 2. The steps of the scientific method are systematic, meaning jumping around the steps in an unplanned way would violate the method.
 a. True.
 
 3. If something is falsifiable, it means that …
