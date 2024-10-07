@@ -9,11 +9,11 @@ a. True.
 3. If something is falsifiable, it means that …
 a. If the hypothesis were false, then you could demonstrate its falsehood.
 
-可证伪的意思是某件事可以被证明是错误的，或者有证据可以反驳它： 
+**可证伪的意思是某件事可以被证明是错误的，或者有证据可以反驳它： 
 定义:
 如果一个理论或假设能够通过经验检验在逻辑上被反驳，那么它就是可证伪的。
 
-可证伪的同义词包括可确认和可验证。
+可证伪的同义词包括可确认和可验证。**
 
 4. Which type of bias leads people to say “| knew that would happen" even when new information distorts an original thought:
 b. Hindsight bias
