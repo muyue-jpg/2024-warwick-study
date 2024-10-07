@@ -7,7 +7,7 @@ a. To discover how to meet a specific need.
 ## 2. The steps of the scientific method are systematic, meaning jumping around the steps in an unplanned way would violate the method.
 a. True.
 
-3. If something is falsifiable, it means that …
+## 3. If something is falsifiable, it means that …
 a. If the hypothesis were false, then you could demonstrate its falsehood.
 
   可证伪的意思是某件事可以被证明是错误的，或者有证据可以反驳它： 
@@ -16,7 +16,7 @@ a. If the hypothesis were false, then you could demonstrate its falsehood.
 
 可证伪的同义词包括可确认和可验证。
 
-4. Which type of bias leads people to say “| knew that would happen" even when new information distorts an original thought:
+## 4. Which type of bias leads people to say “| knew that would happen" even when new information distorts an original thought:
 b. Hindsight bias
 
   确认偏差是指人类倾向于以确认自己先入之见、信念或假设的方式搜索或解释信息，从而导致统计错误。这种偏差通​​常是无意识和无意的，而不是故意欺骗的结果。
@@ -29,7 +29,7 @@ b. Hindsight bias
   
   信息偏差由于数据收集、记录或分析过程中的系统误差而发生
 
-5. When you read scientific papers, you may occasionally find references to the null hypothesis. Which of the following statements about the null hypothesis are true
+## 5. When you read scientific papers, you may occasionally find references to the null hypothesis. Which of the following statements about the null hypothesis are true
 a. The null hypothesis, often written as H0, is the claim that there is no relationship between two variables.
 b. When used, the null hypothesis is offered with an alternative hypothesis called H1.
 c. The null hypothesis is assumed to be true, and you must show evidence to prove a relationship that rejects or disproves the null hypothesis.
@@ -38,7 +38,7 @@ c. The null hypothesis is assumed to be true, and you must show evidence to prov
   如果零假设为真，则任何实验观察到的效应都完全是偶然的，因此称为“零”。与零假设相反，提出了备择假设，它声称两个变量之间确实存在关系。
 
 
-6. Correlational research uses statistical data to determine the extent of a relationship between two or more variables.
+## 6. Correlational research uses statistical data to determine the extent of a relationship between two or more variables.
 a. True
 
   相关研究是一种非实验性的定量研究方法，在不操纵两个或多个变量的情况下研究它们之间的关系相关性研究的目标是找出相关的变量，即一个变量的 变化与另一个变量的变化相关。
@@ -51,7 +51,7 @@ a. True
   散点图： 定量变量之间的相关性通常使用散点图来表示。
 
 
-7. Both causal-comparative and experimental research designs attempt toestablish cause-effect relationships among the variables, but the former does not use randomly assigned groups.
+## 7. Both causal-comparative and experimental research designs attempt toestablish cause-effect relationships among the variables, but the former does not use randomly assigned groups.
 a. True
 
   因果比较研究是一种研究方法，通过比较两组或多组人群来确定独立变量对因变量的影响。 它也被称为事后研究，拉丁语中意为“事后”。 
@@ -71,12 +71,12 @@ a. True
 
 
 
-8. Knowing types of data/variables will allow you to:
+## 8. Knowing types of data/variables will allow you to:
 a. Decide on suitable method(s).
 b. Choose the correct statistical test.
 c. Define the relevant objectives.
 
-9. How can you tell if something is a mediator?
+## 9. How can you tell if something is a mediator?
 a. It is caused by the independent variable.
 b. It influences the dependent variable.
 c. When it is taken into account, the statistical correlation between the independent and dependent variables is higher than when it is not considered.
@@ -86,7 +86,7 @@ c. When it is taken into account, the statistical correlation between the indepe
 ![image](https://github.com/muyue-jpg/warwick-study/blob/main/cyber%20security%20methods/img1.png)
 
 
-10. Examples of nominal variables include:
+## 10. Examples of nominal variables include:
 a. Genotype, blood type, zip code, gender, race, eye colour, political party. 
 
   名义变量是一种分类数据，用于标记或分类事物而不分配任何数值或顺序。 名义变量的类别是互相排斥的，可以用唯一的标签来标识。 
@@ -102,10 +102,10 @@ a. Genotype, blood type, zip code, gender, race, eye colour, political party.
   政党
   首选交通方式 
 
-11. Which type of variable explains the process through which two variables are related?
+## 11. Which type of variable explains the process through which two variables are related?
 a. Mediator. 
 
-12. Falling to account for which type of variables can cause you to wrongly estimate the relationship between your independent and dependent variables:
+## 12. Falling to account for which type of variables can cause you to wrongly estimate the relationship between your independent and dependent variables:
 a. Confounding.
 
 
@@ -127,7 +127,7 @@ a. Confounding.
   
   序数数据是一种分类统计数据类型，其中变量具有自然、有序的类别
 
-13. You want to survey the class to find out the month your classmates were born. Which option best describes the type of data you will be collecting?
+## 13. You want to survey the class to find out the month your classmates were born. Which option best describes the type of data you will be collecting?
 a. Primary and qualitative.
 
   主要数据是研究人员为解决特定问题而直接从某个来源收集的原始信息. 它也被称为原始数据
@@ -138,7 +138,7 @@ a. Primary and qualitative.
   
   连续数据是可以取任意值的数据。身高、体重、温度和身长都是连续数据的例子。一些连续数据会随时间而变化
 
-14.There are many research designs to choose from in the scientific method. The one you pick will be primarily based on the information you want to collect.For example, if your aim is to describe something you should NOT use ...
+## 14.There are many research designs to choose from in the scientific method. The one you pick will be primarily based on the information you want to collect.For example, if your aim is to describe something you should NOT use ...
 d.Natural experiment
 
   案例研究是对一个人、一个群体或一个事件的深入研究。在案例研究中，几乎对研究对象的生活和历史的各个方面进行分析，以寻找行为的模式和原因。
@@ -149,10 +149,10 @@ d.Natural experiment
   
   自然实验是观察性研究，而不是真正的实验；研究人员对实验的社会条件几乎没有（如果有的话）控制权。• 将受试者分配到“治疗”组或“对照组”的过程很少是真正随机的，而且许多外部因素可能会影响实验
 
-15.Which of the following is NOT example of non-probability sampling method?
+## 15.Which of the following is NOT example of non-probability sampling method?
 d.Stratified
 
-16.Probability samples are more generalizable than non-probability samples, meaning the results can be readily applied to the greater population
+## 16.Probability samples are more generalizable than non-probability samples, meaning the results can be readily applied to the greater population
 true
 
 
