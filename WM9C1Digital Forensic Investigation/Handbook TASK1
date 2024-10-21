@@ -1,0 +1,60 @@
+Task 1: Exploring the Stanley.E01 Image in Autopsy
+Open Autopsy:
+
+Launch Autopsy and ensure the Stanley.E01 image has been successfully added as a data source.
+Navigate to Volume 3 (vol3):
+
+In the Tree Viewer panel, find the data source (Stanley.E01).
+Expand the volume information and locate Volume 3.
+Determine the Sector Length of vol3:
+
+
+
+
+Right-click on vol3, choose Show Details or view properties to find the sector length.
+The sector length is typically displayed in the volume properties or metadata section.
+Explore Root Directory of Volume 4 (vol4):
+
+Navigate to Volume 4 and explore its Root Directory. You can access it by expanding the directory structure under vol4 in the Tree Viewer.
+Count the number of files present in this root directory.
+Count the Number of Photo/Image Files in vol3:
+
+Go back to vol3.
+Filter the files in the root directory to only display image/photo files (this may be under file types such as .jpg, .png, etc.).
+Count how many files belong to image/photo formats.
+Find the Oldest Non-System File in vol4:
+
+In vol4, check for the oldest file in the root directory. You can sort files by their creation date or modified date and locate the oldest file.
+Ensure it is a non-system file.
+Analyze MP3 Files in vol3:
+
+In the vol3 root directory, find the MP3 files. There should be 15 MP3 files in total.
+Without opening the files, assess their legitimacy by checking for irregularities such as incorrect extensions or unusual metadata.
+Curly 1709 Librivox.zip in vol4:
+
+In vol4, locate the file curly 1709 librivox.zip.
+Without extracting the zip file, infer its contents based on its name and location.
+Check for file size or use other metadata to make an assumption about its contents.
+Short Filename for Attack Graph Workflow.png:
+
+Find the file Attack Graph Workflow.png in vol3.
+Use the file properties to determine its short filename (this is often displayed in the file's metadata or attributes section).
+Check for the Email Address ulf.haeussler@ndu.edu in vol3:
+
+Search for the email address ulf.haeussler@ndu.edu in vol3.
+The address appears in two files: Hutchins et al (2011) and Payroll.xls.
+Analyze both files to see if there’s a connection between the email address and the contents.
+Brian Hoskins Communication on October 4th, 2000:
+
+Search for communication involving Brian Hoskins on the 4th of October, 2000.
+Review email or document contents that may reference this.
+Files Larger than 50MB in the Image:
+
+Filter the files in the data source by size.
+Find and list any files in the image that exceed 50MB in size.
+PDF Files in the System:
+
+Search for files with the PDF extension across the system.
+Investigate if any of these files do not conform to the PDF file format or contain unusual data.
+ChatGPT said:
+ChatGPT
